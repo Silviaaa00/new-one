@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #006064;
+}
+.title {
+    text-align: center;
+    background-color: white;
+    font-size: 15px;
+    position: relative;
+    overflow: hidden;
+    width: 1000px;
+    left: 230px;
+    border-radius: 4px;
+    font-style: italic;
+}
+.bar {
+    list-style-type: none;
+    text-decoration: none;
+    overflow: hidden;
+    margin-top: 0px;
+}
+li {
+    float: left;
+    position: relative;
+    left: 400px;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 24px;
+}
+li a:hover {
+    background-color: #263238;
+}
+section {
+    background-color: white;
+    width: 1000px;
+    margin-left: 230px;
+    height: 320px;
+}
+.water img {
+    width: 1000px;
+    height: 200px;
+    margin-left: 190px;
+}
+p {
+    color: #006064;
+}
+.button {
+    background-color: #01579B;
+    border-radius: 7px;
+}
+.clear {
+    display: flex;
+}
+.leftside {
+    width: 300px;
+    margin-left: 30px;
+}
+.middle {
+    width: 500px;
+}
+.lastone {
+    width: 300px;
+}
+.lastone h1 {
+    font-size: 16px;
+}
+
